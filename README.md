@@ -1,0 +1,1 @@
+The ALU was also implemented using Arduino to demonstrate software-driven logic. By reading inputs, executing operations, and displaying outputs via code, this phase bridged hardware design and embedded programming. The project reinforced digital electronics, logic design, and microcontroller skills applied in computer architecture.
